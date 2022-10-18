@@ -15,6 +15,7 @@ h1 {
 }
 
 .links {
+    color: black;
     padding-left: 0%;
     display: block;
     margin: auto;
@@ -22,7 +23,7 @@ h1 {
     list-style-position: inside;
     font-family: "Comic Sans MS";
     font-size: 50px;
-    padding-left: 42%;
+    padding-left: 40%;
 }
 span{
     position: relative;
@@ -32,4 +33,19 @@ span{
 .pizza {
     position: relative;
     bottom: -100px;
+}
+
+.LasagnaPicture,
+.LasagnaTitle {
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+.LasagnaPicture{
+    height: 400px;
+    width: 400px;
+}
+
+.LasagnaList{
+    text-align: center;
 }
