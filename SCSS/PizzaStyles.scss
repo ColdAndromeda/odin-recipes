@@ -1,5 +1,8 @@
 a:visited {
   color: rgb(0, 0, 0);
+    link {
+      color: black;
+    }
 }
 
 
@@ -10,9 +13,15 @@ h1, h2 {
     color: black;
 }
 
-.LasagnaTitle {
-    text-align: center;
-    font-family: "Comic Sans MS";
+.logo {
+  text-align: left;
+  position: relative;
+  top: -80px;
+
+  img {
+  width: 50px;
+  height: auto;
+  }
 }
 
 #PizzaPicture {
@@ -32,7 +41,7 @@ h1, h2 {
   text-align: left;
   list-style-position: inside;
   font-family: "Comic Sans MS";
-  font-size: 30px;
+  font-size: 20px;
   padding-left: 30%;
   padding-right: 5%;  
     }
@@ -44,8 +53,8 @@ h1, h2 {
   text-align: left;
   list-style-position: inside;
   font-family: "Comic Sans MS";
-  font-size: 30px;
-  padding-left: 15%;
-  padding-right: 5%;  
+  font-size: 20px;
+  padding-left: 30%;
+  padding-right: 30%;  
     }
 }

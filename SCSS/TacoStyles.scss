@@ -1,37 +1,40 @@
 a:visited {
   color: rgb(0, 0, 0);
-}
-a:visited link {
-  color: black;
+    link {
+      color: black;
+    }
 }
 
+
 h1, h2 {
-  text-align: center;
-  font-family: "Comic Sans MS";
-  font-size: 40px;
-  color: black;
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size: 40px;
+    color: black;
 }
 
 .logo {
   text-align: left;
   position: relative;
   top: -80px;
-}
-.logo img {
+
+  img {
   width: 50px;
   height: auto;
+  }
 }
 
-#PizzaPicture {
+#TacoPicture {
   text-align: center;
-}
-#PizzaPicture img {
-  width: 500px;
-  height: 500px;
+    img {
+        width: 300px;
+        height: 300px;
+    }
 }
 
-.PizzaList ul {
-  color: black;
+.TacoList {
+    ul {
+    color: black;
   padding-left: 0%;
   display: block;
   margin: auto;
@@ -40,17 +43,18 @@ h1, h2 {
   font-family: "Comic Sans MS";
   font-size: 20px;
   padding-left: 30%;
-  padding-right: 5%;
+  padding-right: 5%;  
+    }
+    ol {
+            color: black;
+  padding-left: 0%;
+  display: block;
+  margin: auto;
+  text-align: left;
+  list-style-position: inside;
+  font-family: "Comic Sans MS";
+  font-size: 20px;
+  padding-left: 30%;
+  padding-right: 30%;  
+    }
 }
-.PizzaList ol {
-  color: black;
-  padding-left: 0%;
-  display: block;
-  margin: auto;
-  text-align: left;
-  list-style-position: inside;
-  font-family: "Comic Sans MS";
-  font-size: 20px;
-  padding-left: 30%;
-  padding-right: 30%;
-}/*# sourceMappingURL=PizzaStyles.css.map */
