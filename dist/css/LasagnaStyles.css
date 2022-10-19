@@ -1,0 +1,36 @@
+a:visited {
+  color: rgb(0, 0, 0);
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: "Comic Sans MS";
+  font-size: 40px;
+  color: black;
+}
+
+.LasagnaTitle {
+  text-align: center;
+  font-family: "Comic Sans MS";
+}
+
+#LasagnaPicture {
+  text-align: center;
+}
+#LasagnaPicture img {
+  width: 600px;
+  height: 400px;
+}
+
+.LasagnaList {
+  color: black;
+  padding-left: 0%;
+  display: block;
+  margin: auto;
+  text-align: left;
+  list-style-position: inside;
+  font-family: "Comic Sans MS";
+  font-size: 30px;
+  padding-left: 10%;
+  padding-right: 5%;
+}/*# sourceMappingURL=LasagnaStyles.css.map */

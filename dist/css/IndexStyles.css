@@ -2,7 +2,7 @@ a:visited {
   color: rgb(0, 0, 0);
 }
 
-h1, h2 {
+h1 {
   text-align: center;
   font-family: "Comic Sans MS";
   font-size: 100px;
@@ -35,15 +35,6 @@ span {
   bottom: -100px;
 }
 
-#LasagnaPicture {
-  text-align: center;
-}
-
-#LasagnaPicture img {
-  width: 800px;
-  height: 800px;
-}
-
 .LasagnaTitle {
   text-align: center;
   font-family: "Comic Sans MS";
@@ -60,4 +51,4 @@ span {
   font-size: 40px;
   padding-left: 30%;
   padding-right: 5%;
-}/*# sourceMappingURL=styles.css.map */
+}/*# sourceMappingURL=IndexStyles.css.map */

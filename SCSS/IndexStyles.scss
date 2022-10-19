@@ -1,61 +1,54 @@
-a:visited{
-    color:rgb(0, 0, 0);
+a:visited {
+  color: rgb(0, 0, 0);
 }
-h1, h2 {
-    text-align: center;
-    font-family: "Comic Sans MS";
-    font-size: 100px;
-    color: black;
+
+h1 {
+  text-align: center;
+  font-family: "Comic Sans MS";
+  font-size: 100px;
+  color: black;
 }
 
 .picture {
-    text-align: center;
+  text-align: center;
 }
 
 .links {
-    color: black;
-    padding-left: 0%;
-    display: block;
-    margin: auto;
-    text-align: left;
-    list-style-position: inside;
-    font-family: "Comic Sans MS";
-    font-size: 50px;
-    padding-left: 40%;
+  color: black;
+  padding-left: 0%;
+  display: block;
+  margin: auto;
+  text-align: left;
+  list-style-position: inside;
+  font-family: "Comic Sans MS";
+  font-size: 50px;
+  padding-left: 40%;
 }
-span{
-    position: relative;
-    bottom: -50px;
+
+span {
+  position: relative;
+  bottom: -50px;
 }
 
 .pizza {
-    position: relative;
-    bottom: -100px;
+  position: relative;
+  bottom: -100px;
 }
 
-#LasagnaPicture {
-    text-align: center;
-}
-
-#LasagnaPicture img{
-    width: 800px;
-    height: 800px;
-}
 .LasagnaTitle {
-    text-align: center;
-    font-family: "Comic Sans MS";
+  text-align: center;
+  font-family: "Comic Sans MS";
 }
 
 .LasagnaList {
-    color: black;
-    padding-left: 0%;
-    display: block;
-    margin: auto;
-    text-align: left;
-    list-style-position: inside;
-    font-family: "Comic Sans MS";
-    font-size: 40px;
-    padding-left: 30%;
-    padding-right: 5%;
+  color: black;
+  padding-left: 0%;
+  display: block;
+  margin: auto;
+  text-align: left;
+  list-style-position: inside;
+  font-family: "Comic Sans MS";
+  font-size: 40px;
+  padding-left: 30%;
+  padding-right: 5%;
 }
-
