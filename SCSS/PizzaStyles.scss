@@ -1,0 +1,51 @@
+a:visited {
+  color: rgb(0, 0, 0);
+}
+
+
+h1, h2 {
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size: 40px;
+    color: black;
+}
+
+.LasagnaTitle {
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+#PizzaPicture {
+  text-align: center;
+    img {
+        width: 500px;
+        height: 500px;
+    }
+}
+
+.PizzaList {
+    ul {
+    color: black;
+  padding-left: 0%;
+  display: block;
+  margin: auto;
+  text-align: left;
+  list-style-position: inside;
+  font-family: "Comic Sans MS";
+  font-size: 30px;
+  padding-left: 30%;
+  padding-right: 5%;  
+    }
+    ol {
+            color: black;
+  padding-left: 0%;
+  display: block;
+  margin: auto;
+  text-align: left;
+  list-style-position: inside;
+  font-family: "Comic Sans MS";
+  font-size: 30px;
+  padding-left: 15%;
+  padding-right: 5%;  
+    }
+}
